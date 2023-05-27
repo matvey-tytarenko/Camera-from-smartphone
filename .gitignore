@@ -1,0 +1,6 @@
+/.spec
+/build
+/dist
+/icon.ico
+/main.spec
+/__pycache__
